@@ -1,0 +1,7 @@
+{
+  "name": "LOOP",
+  "description": "AI-powered customer feedback intelligence platform for multi-channel feedback analysis, sentiment classification, trend detection, and VoC reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
